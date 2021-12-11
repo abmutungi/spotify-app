@@ -1,5 +1,5 @@
 # spotify-app
-Example of JavaScipt project to be completed by May 2022
+Example of one JavaScipt project to be completed by May 2022
 ## bomberman-dom
 
 You certainly know [bomberman](https://en.wikipedia.org/wiki/Bomberman) right? Good good. You will make it. Relax, is not that hard, it is only a multiplayer version of it. Ah and forgot to mention that you will need to do it using the framework you created a while ago. Let me explain.
